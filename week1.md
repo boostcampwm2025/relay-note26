@@ -187,6 +187,8 @@
 - 바닥엔 땀방울, 커피, 주석 처리된 코드 스크랩들이 떨어져 있음
 - 회전목마 위 간판: “fix one, break two”
 
+- 느낀점 : 영어로 프롬프트를 입력하면 이미지를 훨씬 세세하게 잘 만들 수 있다. chatGPT 무료판도 이미지 만들기 기능을 지원한다
+
 <img width="1024" height="1536" alt="ChatGPT Image 2025년 7월 24일 오후 03_35_57" src="https://github.com/user-attachments/assets/2060998b-f830-4e26-bd7d-ab52358d135a" />
 
 

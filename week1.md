@@ -204,6 +204,9 @@ AI 생성 고양이 이미지를 제시하고, 프롬프트를 입력하여 gif�
 ![adorable-looking-kitten-with-keyboard](https://github.com/user-attachments/assets/59e53317-68b5-430c-ac85-bf93ce1b6cf2)
 
 ![AIDrawing_250725_06dbdbf6-f37f-4cb1-aa4c-152283e77e88_0_MiriCanvas](https://github.com/user-attachments/assets/c96cda9d-8171-4d9b-9c3e-a85034c46736)
+
+
+
 이미지는 유지하고 프롬프트의 구체적인 묘사를 바꾸어서 2차례 gif를 생성하였으나, 동일한 결과가 생성되었다.
 
 

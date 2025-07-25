@@ -193,6 +193,20 @@
 
 ### J219
 
+1. Canva mp4
+프롬프트: 코딩하던 중 어디서 발생했는지 모를 버그로 인해 로직이 꼬여서 멘붕한 개발자의 이모지
+![코딩하던 중 어디서 발생했는지 모를 버그로 인해 로직이 꼬여서 멘붕한 개발자의 이모지](https://github.com/user-attachments/assets/861a3ff3-ebca-4462-8a10-0973facc725d)
+
+
+2. gif
+AI 생성 고양이 이미지를 제시하고, 프롬프트를 입력하여 gif를 생성하였다.
+프롬프트: 고양이가 앞발로 노트북 자판을 빠르게, 두 발을 번갈아가며 두드린다.
+![adorable-looking-kitten-with-keyboard](https://github.com/user-attachments/assets/59e53317-68b5-430c-ac85-bf93ce1b6cf2)
+
+![AIDrawing_250725_06dbdbf6-f37f-4cb1-aa4c-152283e77e88_0_MiriCanvas](https://github.com/user-attachments/assets/c96cda9d-8171-4d9b-9c3e-a85034c46736)
+이미지는 유지하고 프롬프트의 구체적인 묘사를 바꾸어서 2차례 gif를 생성하였으나, 동일한 결과가 생성되었다.
+
+
 ### J078
 
 출처 : https://www.youtube.com/watch?v=eiC58R16hb8

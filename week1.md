@@ -246,6 +246,8 @@ JavaScript는 단일 스레드이므로 장기 실행 작업은 전체 프로그
 
 요약하자면, JavaScript는 단일 스레드이지만 웹 API, 태스크 큐, 마이크로태스크 큐, 그리고 이들을 조율하는 이벤트 루프 덕분에 논블로킹 방식으로 비동기 작업을 처리할 수 있습니다 [10:55].
 
+느낀점 : 영상을 빠르게 요약을 해서 보기가 편했다. 하지만 한번 더 요약을 요청하면 많은 내용을 줄여 영상의 많은 부분들이 생략이 된다. 
+
 ### K021
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b7b4cdea-4f97-4dbe-a2e8-53fb7d8f78ab" />

@@ -154,6 +154,8 @@ OO님은 학습 자료를 체계적으로 잘 정리하셔서, 함께 공부하�
 
 - **수행 결과:**
 
+  <img width="597" height="160" alt="image" src="https://github.com/user-attachments/assets/4bb34a8f-9cd0-49a6-a1ee-f563bb015def" />
+
 
 ---
 ### (목) 수행 내용
@@ -161,7 +163,10 @@ OO님은 학습 자료를 체계적으로 잘 정리하셔서, 함께 공부하�
 
 
 - **수행 결과:**
-    
+  
+    <img width="598" height="165" alt="image" src="https://github.com/user-attachments/assets/ee155280-a6d3-43fc-b854-79ef419947d6" />
+
+
     미션을 진행함에 있어서 분명 휴식시간이 필요한데, 해당 과제를 진행하면서 한숨 돌릴 수 있었다고 생각합니다. 그리고 추가적으로 다른 동료분들이 댓글을 달아주셔서 새로운 커넥션이 생기는 것 같아서 즐거운 경험이었다고 생가합니다!
 
 </details>
@@ -189,6 +194,8 @@ OO님은 학습 자료를 체계적으로 잘 정리하셔서, 함께 공부하�
     ```
 
 - **수행 결과:**
+
+   <img width="595" height="240" alt="image" src="https://github.com/user-attachments/assets/68d9f975-3fd8-41d8-a77a-aed192cb9086" />
 
 
 </details>
